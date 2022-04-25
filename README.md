@@ -12,7 +12,14 @@ Another way I imagine it is as a cloud of files clustered by a project. somethin
 so far, I have a bunch of material for launching the page, but I didn't finish the page.
 here's the project's moodboard, concept and thoughts
 https://miro.com/app/board/uXjVODAuVdc=/?share_link_id=868475483487
+
 here's the design of a page
-<img width="904" alt="Screenshot 2022-04-25 at 16 33 42" src="https://user-images.githubusercontent.com/84412989/165112405-e4b00c54-2e4b-4b20-b030-a0fe60585a4e.png">
+
+<img width="903" alt="Screenshot 2022-04-25 at 16 54 20" src="https://user-images.githubusercontent.com/84412989/165115403-d3833f4f-b13a-4b44-8556-1f192a5b5a46.png">
+
+
+
+
+
 here's the network that all shards should resemble in the end
 ![1](https://user-images.githubusercontent.com/84412989/165112696-a002a277-5ac1-446e-afc9-a86f194f2904.png)
